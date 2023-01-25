@@ -12,7 +12,7 @@ Whenever you submit a pull request to an open source project,
 it will have to pass the CI tests in order for the maintainer to accept your changes.
 This process ensures that thousands of developers can work together on the same project without breaking each other's code.
 
-All of your homework grades in this class will be determined by the results of the CI tests.
+All of your homework grades in this class will be determined by the results of CI tests.
 If you pass all the tests, you get full credit.
 For each test case that you fail, you will lose 1 point on the assignment.
 
